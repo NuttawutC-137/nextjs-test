@@ -22,8 +22,9 @@ export default function page({}: Props) {
       <table>
         <tbody>
           <tr>
-            <th>First Name</th>
-            <th>Last Name</th>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Phone number</th>
             <th>Email</th>
             <th>Action</th>
           </tr>
